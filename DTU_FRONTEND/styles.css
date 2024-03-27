@@ -1,0 +1,101 @@
+.navbar {
+    background-color: transparent;
+    z-index: 1;
+}
+
+.nav_logo {
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.nav_name {
+    font-weight: 600;
+}
+#image_carousel{
+    position: relative;
+}
+.dropdown-menu{
+    background-color: transparent;
+}
+.info{
+    background-color :#BF3131;
+    padding: 6% 6%;
+    color: white;
+}
+.image{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-right:5% ;
+}
+.vision{
+    margin-bottom: 5%;
+}
+.links{
+    color: black;
+}
+.news{
+    padding: 6% 6%;
+}
+.numbers{
+    padding: 6% 6%;
+    color: white;
+    text-align: center;
+}
+.number_div{
+    padding : 6% 6%;
+}
+.blocks{
+    margin-bottom: 15px;
+}
+.research{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 6% ;
+    color: white;
+    text-align: center;
+}
+.research_div{
+    padding: 6% 6%;
+}
+.number_wrapper{
+    background-image: url(lab_tint.jpg);
+    background-attachment: fixed;
+    justify-content: center;
+}
+.top_container{
+    text-align: center;
+}
+.lower_box{
+    padding-top: 3%;
+    background-color:#3D3B40;
+    color: white;
+    text-align: center;
+}
+.lower_logo{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 15px;
+}
+.bottom_link{
+    color: gray;
+    display: block;
+}
+footer{
+    text-align: center;
+    background-color:#3D3B40;
+}
+.footer_link{
+    font-size: 2rem;
+    color: white;
+}
+.video{
+    padding: 20% 5%;
+    text-align: center;
+    background-image: url(./DTU_VIDEO_IMAGE-fotor-2024011211145.jpg);
+    background-attachment: fixed;
+}
+.video_link{
+    color: black;
+}
